@@ -3,7 +3,7 @@
 **A high-precision object detection model for identifying dental implants in radiographic images, fine-tuned on a custom dataset using YOLOv11m.**  
 
 <div align="center">
-  <img src="[https://media.giphy.com/media/.../your-demo.gif](https://media.giphy.com/media/QB17GCGiD97t5STPNg/giphy.gif?cid=ecf05e47kkgngq7ebfr55xj3jp0xxucaqbn7k28k4mhayu6g&ep=v1_gifs_search&rid=giphy.gif&ct=g)" alt="Dental-implant"/>
+  <img src="https://media.giphy.com/media/QB17GCGiD97t5STPNg/giphy.gif?cid=ecf05e47kkgngq7ebfr55xj3jp0xxucaqbn7k28k4mhayu6g&ep=v1_gifs_search&rid=giphy.gif&ct=g" alt="Dental-implant"/>
 </div>
 
 ---
